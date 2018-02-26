@@ -1,0 +1,3 @@
+AnswerIntent She sees cheese
+AnswerIntent Wrap the rope with rapper 
+// AnswerIntent All tongue twisters from index.html

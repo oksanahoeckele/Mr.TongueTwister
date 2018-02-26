@@ -1,0 +1,14 @@
+{
+  "name": "kids_stories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.js"
+  },
+  "author": "Oksana Hoeckele",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.22"
+  }
+}
